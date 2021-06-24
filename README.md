@@ -1,8 +1,8 @@
-## TensorFlow - Detect Object
+# TensorFlow - Detect Object
 
 Criar a demo inicial com Android Studio
 
-##Pré-requisitos:
+#Pré-requisitos:
 
 - Instale o Android Studio, caso ainda não o tenha feito, seguindo as instruções do site.
 
@@ -10,7 +10,7 @@ Criar a demo inicial com Android Studio
 
 - Android Studio 3.2 ou posterior.
 	
-##Criando o Apk:
+#Criando o Apk:
 
 - Abra o Android Studio e, na tela de boas-vindas, selecione Open an existing Android Studio project.
 
