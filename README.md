@@ -8,7 +8,7 @@ Criar a demo inicial com Android Studio
 
 - Necessário um dispositivo Android e ambiente de desenvolvimento Android com, no mínimo, API 21.(Baixe/atualiza com a opção android emulator)
 
-- Android Studio 3.2 ou posterior.
+- Android Studio 3.2
 	
 #Criando o Apk:
 
